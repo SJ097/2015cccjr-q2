@@ -5,7 +5,7 @@
    Source: 2015 Canadian Computing Competition: Junior Division
    Question #2: "We often include emoticons in our text messages to indicate how we are feeling. The three consecutive characters ':-)' indicate
                 a happy face and the three consecutive characters ':-(' indicate a sad face. Write a program to determine the overall mood of a
-                message. */
+                message." */
 
 #define _CRT_SECURE_NO_WARNINGS
 
